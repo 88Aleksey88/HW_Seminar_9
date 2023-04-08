@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\bin\Debug\net7.0\Задача_64.exe
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\bin\Debug\net7.0\Задача_64.deps.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\bin\Debug\net7.0\Задача_64.runtimeconfig.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\bin\Debug\net7.0\Задача_64.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\bin\Debug\net7.0\Задача_64.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\refint\Задача_64.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\Задача_64.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_9\Задача_64\obj\Debug\net7.0\ref\Задача_64.dll
